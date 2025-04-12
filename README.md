@@ -16,3 +16,6 @@
 
 4.Change the seed and paramaters 
 -In Service/EmulatorService - line 34 you can change the paramaters you want to run the reset with 
+
+
+The algorithm used to solve the dispatches was a greedy one, base on the distance between the target event and the closest source of cars.
