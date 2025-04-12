@@ -13,3 +13,6 @@
 -Set the parameter on line 53 to true.
 
 -Run the React frontend app provided by my colleague.
+
+4.Change the seed and paramaters 
+-In Service/EmulatorService - line 34 you can change the paramaters you want to run the reset with 
